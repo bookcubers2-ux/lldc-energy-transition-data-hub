@@ -1,0 +1,9 @@
+country: PRY
+name: Paraguay
+utm_epsg: 32721
+bbox: [-62.65, -27.60, -54.25, -19.29]
+worldpop_url: https://data.worldpop.org/GIS/Population/Global_2000_2020/2020/PRY/pry_ppp_2020.tif
+gsa_ghi_url: https://globalsolaratlas.info/download/paraguay
+dem_tiles: copernicus_glo30
+osm_place: Paraguay
+forest_cover_url: https://glad.umd.edu/dataset/gedi/tree-cover

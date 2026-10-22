@@ -1,0 +1,35 @@
+grid:
+  base_usd_per_km: 12000
+  slope_pct_per_degree: 2.5
+  altitude_multipliers:
+    - { above_m: 3500, factor: 1.15 }
+    - { above_m: 4000, factor: 1.30 }
+  forest_multiplier: 1.40
+  forest_threshold_pct: 60
+  landlocked_premium: 1.12
+
+bess:
+  demand_kwh_per_household_day: 2.0
+  autonomy_days: 1.5
+  depth_of_discharge: 0.85
+  battery_usd_per_kwh: 280
+  pv_usd_per_kwp: 1100
+  performance_ratio: 0.75
+  bos_fraction: 0.25
+  om_fraction_per_year: 0.02
+  battery_replacement_year: 10
+  battery_replacement_fraction: 0.60
+  discount_rate: 0.08
+  horizon_years: 20
+
+thresholds:
+  min_distance_km: 20
+  min_grid_cost_per_km: 15000
+  min_ghi: 4.5
+  min_households: 50
+  min_ratio: 1.0
+
+settlements:
+  persons_per_household: 4.2
+  cluster_radius_m: 1500
+  min_population_cell: 5

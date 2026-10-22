@@ -1,0 +1,7 @@
+data/raw/
+pipeline/.venv/
+web/node_modules/
+web/dist/
+__pycache__/
+*.tif
+*.pbf

@@ -1,0 +1,9 @@
+country: BOL
+name: Bolivia
+utm_epsg: 32720
+bbox: [-69.65, -22.90, -57.45, -9.67]
+worldpop_url: https://data.worldpop.org/GIS/Population/Global_2000_2020/2020/BOL/bol_ppp_2020.tif
+gsa_ghi_url: https://globalsolaratlas.info/download/bolivia   # GHI GeoTIFF, long-term average
+dem_tiles: copernicus_glo30
+osm_place: Bolivia
+forest_cover_url: https://glad.umd.edu/dataset/gedi/tree-cover  # 30 m canopy cover

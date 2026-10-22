@@ -1,0 +1,625 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.63,
+     -21.69
+    ]
+   },
+   "properties": {
+    "node_id": "Lipez-K",
+    "name": "San Pablo de Lípez",
+    "country": "BOL",
+    "region": "Potosí",
+    "households": 60,
+    "elevation_m": 4050,
+    "dist_to_grid_km": 28.0,
+    "grid_cost_per_km_usd": 16071,
+    "grid_cost_usd": 450000,
+    "bess_cost_usd": 120000,
+    "grid_lifetime_usd": 516000,
+    "bess_lifetime_usd": 171000,
+    "ghi_kwh_m2_day": 6.4,
+    "battery_kwh": 212,
+    "pv_kwp": 25,
+    "ratio_grid_over_bess": 3.75,
+    "verdict": "BATTERY",
+    "priority": true,
+    "data_version": "1.2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.52,
+     -21.95
+    ]
+   },
+   "properties": {
+    "node_id": "BOL-IND-001",
+    "name": "San Antonio de Esmoruco",
+    "country": "BOL",
+    "region": "Potosí",
+    "households": 70,
+    "elevation_m": 4200,
+    "dist_to_grid_km": 46,
+    "grid_cost_per_km_usd": 24613.68,
+    "grid_cost_usd": 1132229.28,
+    "bess_cost_usd": 125957.77,
+    "grid_lifetime_usd": 1298975.19,
+    "bess_lifetime_usd": 169916.46,
+    "ghi_kwh_m2_day": 6.5,
+    "battery_kwh": 247.06,
+    "pv_kwp": 28.72,
+    "ratio_grid_over_bess": 8.99,
+    "verdict": "BATTERY",
+    "priority": true,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.4,
+     -22.18
+    ]
+   },
+   "properties": {
+    "node_id": "BOL-IND-002",
+    "name": "Quetena Chico",
+    "country": "BOL",
+    "region": "Potosí",
+    "households": 55,
+    "elevation_m": 4150,
+    "dist_to_grid_km": 62,
+    "grid_cost_per_km_usd": 24111.36,
+    "grid_cost_usd": 1494904.32,
+    "bess_cost_usd": 98496.73,
+    "grid_lifetime_usd": 1715062.18,
+    "bess_lifetime_usd": 132943.4,
+    "ghi_kwh_m2_day": 6.6,
+    "battery_kwh": 194.12,
+    "pv_kwp": 22.22,
+    "ratio_grid_over_bess": 15.18,
+    "verdict": "BATTERY",
+    "priority": true,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.66,
+     -20.74
+    ]
+   },
+   "properties": {
+    "node_id": "BOL-IND-003",
+    "name": "Colcha K",
+    "country": "BOL",
+    "region": "Potosí",
+    "households": 120,
+    "elevation_m": 3780,
+    "dist_to_grid_km": 25,
+    "grid_cost_per_km_usd": 17001.6,
+    "grid_cost_usd": 425040.0,
+    "bess_cost_usd": 218076.56,
+    "grid_lifetime_usd": 487636.58,
+    "bess_lifetime_usd": 293856.3,
+    "ghi_kwh_m2_day": 6.3,
+    "battery_kwh": 423.53,
+    "pv_kwp": 50.79,
+    "ratio_grid_over_bess": 1.95,
+    "verdict": "BATTERY",
+    "priority": true,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.13,
+     -19.85
+    ]
+   },
+   "properties": {
+    "node_id": "BOL-IND-004",
+    "name": "Llica",
+    "country": "BOL",
+    "region": "Potosí",
+    "households": 180,
+    "elevation_m": 3660,
+    "dist_to_grid_km": 34,
+    "grid_cost_per_km_usd": 16615.2,
+    "grid_cost_usd": 564916.8,
+    "bess_cost_usd": 328804.55,
+    "grid_lifetime_usd": 648113.35,
+    "bess_lifetime_usd": 442805.95,
+    "ghi_kwh_m2_day": 6.2,
+    "battery_kwh": 635.29,
+    "pv_kwp": 77.42,
+    "ratio_grid_over_bess": 1.72,
+    "verdict": "BATTERY",
+    "priority": true,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.45,
+     -17.59
+    ]
+   },
+   "properties": {
+    "node_id": "BOL-IND-005",
+    "name": "Charaña",
+    "country": "BOL",
+    "region": "La Paz",
+    "households": 150,
+    "elevation_m": 4060,
+    "dist_to_grid_km": 30,
+    "grid_cost_per_km_usd": 23106.72,
+    "grid_cost_usd": 693201.6,
+    "bess_cost_usd": 275458.05,
+    "grid_lifetime_usd": 795290.93,
+    "bess_lifetime_usd": 370744.78,
+    "ghi_kwh_m2_day": 6.1,
+    "battery_kwh": 529.41,
+    "pv_kwp": 65.57,
+    "ratio_grid_over_bess": 2.52,
+    "verdict": "BATTERY",
+    "priority": true,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.4,
+     -17.84
+    ]
+   },
+   "properties": {
+    "node_id": "BOL-IND-006",
+    "name": "Curahuara de Carangas",
+    "country": "BOL",
+    "region": "Oruro",
+    "households": 140,
+    "elevation_m": 3900,
+    "dist_to_grid_km": 16,
+    "grid_cost_per_km_usd": 18160.8,
+    "grid_cost_usd": 290572.8,
+    "bess_cost_usd": 258496.73,
+    "grid_lifetime_usd": 333366.1,
+    "bess_lifetime_usd": 347706.42,
+    "ghi_kwh_m2_day": 6.0,
+    "battery_kwh": 494.12,
+    "pv_kwp": 62.22,
+    "ratio_grid_over_bess": 1.12,
+    "verdict": "BATTERY",
+    "priority": false,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.41,
+     -14.72
+    ]
+   },
+   "properties": {
+    "node_id": "BOL-IND-007",
+    "name": "Apolo",
+    "country": "BOL",
+    "region": "La Paz",
+    "households": 320,
+    "elevation_m": 1400,
+    "dist_to_grid_km": 42,
+    "grid_cost_per_km_usd": 25401.6,
+    "grid_cost_usd": 1066867.2,
+    "bess_cost_usd": 650366.58,
+    "grid_lifetime_usd": 1223987.09,
+    "bess_lifetime_usd": 865961.36,
+    "ghi_kwh_m2_day": 4.6,
+    "battery_kwh": 1129.41,
+    "pv_kwp": 185.51,
+    "ratio_grid_over_bess": 1.64,
+    "verdict": "BATTERY",
+    "priority": true,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.13,
+     -13.76
+    ]
+   },
+   "properties": {
+    "node_id": "BOL-IND-008",
+    "name": "Ixiamas",
+    "country": "BOL",
+    "region": "La Paz",
+    "households": 400,
+    "elevation_m": 260,
+    "dist_to_grid_km": 95,
+    "grid_cost_per_km_usd": 19286.4,
+    "grid_cost_usd": 1832208.0,
+    "bess_cost_usd": 799673.2,
+    "grid_lifetime_usd": 2102041.32,
+    "bess_lifetime_usd": 1066557.99,
+    "ghi_kwh_m2_day": 4.8,
+    "battery_kwh": 1411.76,
+    "pv_kwp": 222.22,
+    "ratio_grid_over_bess": 2.29,
+    "verdict": "BATTERY",
+    "priority": true,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.58,
+     -13.66
+    ]
+   },
+   "properties": {
+    "node_id": "BOL-IND-009",
+    "name": "Baures",
+    "country": "BOL",
+    "region": "Beni",
+    "households": 250,
+    "elevation_m": 180,
+    "dist_to_grid_km": 120,
+    "grid_cost_per_km_usd": 19051.2,
+    "grid_cost_usd": 2286144.0,
+    "bess_cost_usd": 495898.36,
+    "grid_lifetime_usd": 2622829.48,
+    "bess_lifetime_usd": 661936.05,
+    "ghi_kwh_m2_day": 4.9,
+    "battery_kwh": 882.35,
+    "pv_kwp": 136.05,
+    "ratio_grid_over_bess": 4.61,
+    "verdict": "BATTERY",
+    "priority": true,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.4,
+     -16.36
+    ]
+   },
+   "properties": {
+    "node_id": "BOL-IND-010",
+    "name": "San Matías",
+    "country": "BOL",
+    "region": "Santa Cruz",
+    "households": 1200,
+    "elevation_m": 130,
+    "dist_to_grid_km": 180,
+    "grid_cost_per_km_usd": 13776.0,
+    "grid_cost_usd": 2479680.0,
+    "bess_cost_usd": 2312541.62,
+    "grid_lifetime_usd": 2844867.96,
+    "bess_lifetime_usd": 3096214.9,
+    "ghi_kwh_m2_day": 5.3,
+    "battery_kwh": 4235.29,
+    "pv_kwp": 603.77,
+    "ratio_grid_over_bess": 1.07,
+    "verdict": "BATTERY",
+    "priority": false,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.0,
+     -21.55
+    ]
+   },
+   "properties": {
+    "node_id": "BOL-IND-011",
+    "name": "Ibibobo",
+    "country": "BOL",
+    "region": "Tarija",
+    "households": 70,
+    "elevation_m": 290,
+    "dist_to_grid_km": 12,
+    "grid_cost_per_km_usd": 14112.0,
+    "grid_cost_usd": 169344.0,
+    "bess_cost_usd": 134001.45,
+    "grid_lifetime_usd": 194283.67,
+    "bess_lifetime_usd": 179539.63,
+    "ghi_kwh_m2_day": 5.4,
+    "battery_kwh": 247.06,
+    "pv_kwp": 34.57,
+    "ratio_grid_over_bess": 1.26,
+    "verdict": "BATTERY",
+    "priority": false,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.17,
+     -20.23
+    ]
+   },
+   "properties": {
+    "node_id": "PRY-IND-012",
+    "name": "Bahía Negra",
+    "country": "PRY",
+    "region": "Alto Paraguay",
+    "households": 200,
+    "elevation_m": 100,
+    "dist_to_grid_km": 140,
+    "grid_cost_per_km_usd": 13608.0,
+    "grid_cost_usd": 1905120.0,
+    "bess_cost_usd": 385423.6,
+    "grid_lifetime_usd": 2185691.23,
+    "bess_lifetime_usd": 516035.82,
+    "ghi_kwh_m2_day": 5.3,
+    "battery_kwh": 705.88,
+    "pv_kwp": 100.63,
+    "ratio_grid_over_bess": 4.94,
+    "verdict": "BATTERY",
+    "priority": false,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -57.88,
+     -21.04
+    ]
+   },
+   "properties": {
+    "node_id": "PRY-IND-013",
+    "name": "Fuerte Olimpo",
+    "country": "PRY",
+    "region": "Alto Paraguay",
+    "households": 300,
+    "elevation_m": 110,
+    "dist_to_grid_km": 60,
+    "grid_cost_per_km_usd": 13776.0,
+    "grid_cost_usd": 826560.0,
+    "bess_cost_usd": 582126.7,
+    "grid_lifetime_usd": 948289.32,
+    "bess_lifetime_usd": 778828.76,
+    "ghi_kwh_m2_day": 5.2,
+    "battery_kwh": 1058.82,
+    "pv_kwp": 153.85,
+    "ratio_grid_over_bess": 1.42,
+    "verdict": "BATTERY",
+    "priority": false,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -57.94,
+     -22.29
+    ]
+   },
+   "properties": {
+    "node_id": "PRY-IND-014",
+    "name": "Puerto Casado",
+    "country": "PRY",
+    "region": "Alto Paraguay",
+    "households": 650,
+    "elevation_m": 100,
+    "dist_to_grid_km": 15,
+    "grid_cost_per_km_usd": 13608.0,
+    "grid_cost_usd": 204120.0,
+    "bess_cost_usd": 1270261.44,
+    "grid_lifetime_usd": 234181.2,
+    "bess_lifetime_usd": 1698213.94,
+    "ghi_kwh_m2_day": 5.1,
+    "battery_kwh": 2294.12,
+    "pv_kwp": 339.87,
+    "ratio_grid_over_bess": 0.16,
+    "verdict": "WIRE",
+    "priority": false,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.79,
+     -19.93
+    ]
+   },
+   "properties": {
+    "node_id": "PRY-IND-015",
+    "name": "Mayor Pablo Lagerenza",
+    "country": "PRY",
+    "region": "Alto Paraguay",
+    "households": 60,
+    "elevation_m": 260,
+    "dist_to_grid_km": 210,
+    "grid_cost_per_km_usd": 13608.0,
+    "grid_cost_usd": 2857680.0,
+    "bess_cost_usd": 114117.65,
+    "grid_lifetime_usd": 3278536.85,
+    "bess_lifetime_usd": 153004.91,
+    "ghi_kwh_m2_day": 5.5,
+    "battery_kwh": 211.76,
+    "pv_kwp": 29.09,
+    "ratio_grid_over_bess": 25.04,
+    "verdict": "BATTERY",
+    "priority": false,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.3,
+     -22.07
+    ]
+   },
+   "properties": {
+    "node_id": "PRY-IND-016",
+    "name": "Campo Loro",
+    "country": "PRY",
+    "region": "Boquerón",
+    "households": 140,
+    "elevation_m": 160,
+    "dist_to_grid_km": 22,
+    "grid_cost_per_km_usd": 13608.0,
+    "grid_cost_usd": 299376.0,
+    "bess_cost_usd": 268002.9,
+    "grid_lifetime_usd": 343465.77,
+    "bess_lifetime_usd": 359079.25,
+    "ghi_kwh_m2_day": 5.4,
+    "battery_kwh": 494.12,
+    "pv_kwp": 69.14,
+    "ratio_grid_over_bess": 1.12,
+    "verdict": "BATTERY",
+    "priority": false,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.2,
+     -21.7
+    ]
+   },
+   "properties": {
+    "node_id": "PRY-IND-017",
+    "name": "Infante Rivarola",
+    "country": "PRY",
+    "region": "Boquerón",
+    "households": 55,
+    "elevation_m": 300,
+    "dist_to_grid_km": 160,
+    "grid_cost_per_km_usd": 13608.0,
+    "grid_cost_usd": 2177280.0,
+    "bess_cost_usd": 103953.08,
+    "grid_lifetime_usd": 2497932.84,
+    "bess_lifetime_usd": 139471.17,
+    "ghi_kwh_m2_day": 5.6,
+    "battery_kwh": 194.12,
+    "pv_kwp": 26.19,
+    "ratio_grid_over_bess": 20.94,
+    "verdict": "BATTERY",
+    "priority": false,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.55,
+     -22.33
+    ]
+   },
+   "properties": {
+    "node_id": "PRY-IND-018",
+    "name": "Pozo Hondo",
+    "country": "PRY",
+    "region": "Boquerón",
+    "households": 60,
+    "elevation_m": 260,
+    "dist_to_grid_km": 130,
+    "grid_cost_per_km_usd": 13608.0,
+    "grid_cost_usd": 1769040.0,
+    "bess_cost_usd": 113403.36,
+    "grid_lifetime_usd": 2029570.43,
+    "bess_lifetime_usd": 152150.37,
+    "ghi_kwh_m2_day": 5.6,
+    "battery_kwh": 211.76,
+    "pv_kwp": 28.57,
+    "ratio_grid_over_bess": 15.6,
+    "verdict": "BATTERY",
+    "priority": false,
+    "data_version": "1.2-indicative"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.03,
+     -22.35
+    ]
+   },
+   "properties": {
+    "node_id": "PRY-IND-019",
+    "name": "Filadelfia",
+    "country": "PRY",
+    "region": "Boquerón",
+    "households": 3000,
+    "elevation_m": 130,
+    "dist_to_grid_km": 0.5,
+    "grid_cost_per_km_usd": 13608.0,
+    "grid_cost_usd": 6804.0,
+    "bess_cost_usd": 5742919.39,
+    "grid_lifetime_usd": 7806.04,
+    "bess_lifetime_usd": 7694555.45,
+    "ghi_kwh_m2_day": 5.4,
+    "battery_kwh": 10588.24,
+    "pv_kwp": 1481.48,
+    "ratio_grid_over_bess": 0.0,
+    "verdict": "WIRE",
+    "priority": false,
+    "data_version": "1.2-indicative"
+   }
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: LLDC Energy Transition Data Hub
+version: "1.2"
+license: MIT
+type: software
+message: If you use this tool, please cite it.
+authors:
+  - name: LLDC Energy Transition Data Hub contributors
+keywords: [LLDC, energy access, battery storage, microgrids, grid extension, Bolivia, Paraguay]

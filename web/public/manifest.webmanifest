@@ -1,0 +1,9 @@
+{
+  "name": "LLDC Energy Transition Data Hub",
+  "short_name": "LLDC Hub",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101828",
+  "theme_color": "#F2A93B",
+  "icons": [{ "src": "logo.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
