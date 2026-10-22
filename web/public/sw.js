@@ -1,4 +1,4 @@
-const CACHE = "lldc-hub-v1.2";
+const CACHE = "lldc-hub-v1.2.1";
 const CORE = ["./", "./index.html", "./data/nodes.geojson", "./logo.svg", "./favicon.svg"];
 
 self.addEventListener("install", (e) => {
